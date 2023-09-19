@@ -26,6 +26,23 @@
 		F509BA612AAB285000A06E20 /* LazyStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA602AAB285000A06E20 /* LazyStacks.swift */; };
 		F509BA632AAB3E5E00A06E20 /* Grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA622AAB3E5E00A06E20 /* Grids.swift */; };
 		F509BA652AADDC5000A06E20 /* SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA642AADDC5000A06E20 /* SafeArea.swift */; };
+		F509BA672AAECFC100A06E20 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA662AAECFC100A06E20 /* Buttons.swift */; };
+		F509BA6B2AAEDC1000A06E20 /* State_Concept.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA6A2AAEDC1000A06E20 /* State_Concept.swift */; };
+		F509BA6D2AAEE4E700A06E20 /* ExtractFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA6C2AAEE4E700A06E20 /* ExtractFunctions.swift */; };
+		F509BA6F2AAEF6BB00A06E20 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA6E2AAEF6BB00A06E20 /* ExtractSubviews.swift */; };
+		F509BA712AAF170100A06E20 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA702AAF170100A06E20 /* Binding.swift */; };
+		F509BA732AB06F1000A06E20 /* Conditionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA722AB06F1000A06E20 /* Conditionals.swift */; };
+		F509BA752AB171F000A06E20 /* TernaryOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA742AB171F000A06E20 /* TernaryOperator.swift */; };
+		F509BA772AB17C3D00A06E20 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA762AB17C3D00A06E20 /* Animations.swift */; };
+		F509BA792AB187AC00A06E20 /* AnimationTiming:Curve.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA782AB187AC00A06E20 /* AnimationTiming:Curve.swift */; };
+		F509BA7B2AB1BAB100A06E20 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F509BA7A2AB1BAB100A06E20 /* Transitions.swift */; };
+		F58395CF2AB5C49900D27F74 /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58395CE2AB5C49900D27F74 /* NavigationView.swift */; };
+		F58395D12AB6380200D27F74 /* ListsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58395D02AB6380200D27F74 /* ListsLearning.swift */; };
+		F58395D32AB716FE00D27F74 /* AlertsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58395D22AB716FE00D27F74 /* AlertsLearning.swift */; };
+		F583962D2AB9708B00D27F74 /* ActionSheetLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = F583962C2AB9708B00D27F74 /* ActionSheetLearning.swift */; };
+		F583962F2AB97CAE00D27F74 /* ContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F583962E2AB97CAE00D27F74 /* ContextMenu.swift */; };
+		F5D45E0A2AB42EC5003DBE51 /* PopUpSheetsAndFullScreenCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D45E092AB42EC5003DBE51 /* PopUpSheetsAndFullScreenCover.swift */; };
+		F5D45E0C2AB45768003DBE51 /* SheetsVsAnimationsVsTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D45E0B2AB45768003DBE51 /* SheetsVsAnimationsVsTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +66,23 @@
 		F509BA602AAB285000A06E20 /* LazyStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStacks.swift; sourceTree = "<group>"; };
 		F509BA622AAB3E5E00A06E20 /* Grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grids.swift; sourceTree = "<group>"; };
 		F509BA642AADDC5000A06E20 /* SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeArea.swift; sourceTree = "<group>"; };
+		F509BA662AAECFC100A06E20 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		F509BA6A2AAEDC1000A06E20 /* State_Concept.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_Concept.swift; sourceTree = "<group>"; };
+		F509BA6C2AAEE4E700A06E20 /* ExtractFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractFunctions.swift; sourceTree = "<group>"; };
+		F509BA6E2AAEF6BB00A06E20 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
+		F509BA702AAF170100A06E20 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		F509BA722AB06F1000A06E20 /* Conditionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditionals.swift; sourceTree = "<group>"; };
+		F509BA742AB171F000A06E20 /* TernaryOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperator.swift; sourceTree = "<group>"; };
+		F509BA762AB17C3D00A06E20 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
+		F509BA782AB187AC00A06E20 /* AnimationTiming:Curve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AnimationTiming:Curve.swift"; sourceTree = "<group>"; };
+		F509BA7A2AB1BAB100A06E20 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
+		F58395CE2AB5C49900D27F74 /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
+		F58395D02AB6380200D27F74 /* ListsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsLearning.swift; sourceTree = "<group>"; };
+		F58395D22AB716FE00D27F74 /* AlertsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsLearning.swift; sourceTree = "<group>"; };
+		F583962C2AB9708B00D27F74 /* ActionSheetLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetLearning.swift; sourceTree = "<group>"; };
+		F583962E2AB97CAE00D27F74 /* ContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenu.swift; sourceTree = "<group>"; };
+		F5D45E092AB42EC5003DBE51 /* PopUpSheetsAndFullScreenCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpSheetsAndFullScreenCover.swift; sourceTree = "<group>"; };
+		F5D45E0B2AB45768003DBE51 /* SheetsVsAnimationsVsTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsVsAnimationsVsTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +132,23 @@
 				F509BA602AAB285000A06E20 /* LazyStacks.swift */,
 				F509BA622AAB3E5E00A06E20 /* Grids.swift */,
 				F509BA642AADDC5000A06E20 /* SafeArea.swift */,
+				F509BA662AAECFC100A06E20 /* Buttons.swift */,
+				F509BA6A2AAEDC1000A06E20 /* State_Concept.swift */,
+				F509BA6C2AAEE4E700A06E20 /* ExtractFunctions.swift */,
+				F509BA6E2AAEF6BB00A06E20 /* ExtractSubviews.swift */,
+				F509BA702AAF170100A06E20 /* Binding.swift */,
+				F509BA722AB06F1000A06E20 /* Conditionals.swift */,
+				F509BA742AB171F000A06E20 /* TernaryOperator.swift */,
+				F509BA762AB17C3D00A06E20 /* Animations.swift */,
+				F509BA782AB187AC00A06E20 /* AnimationTiming:Curve.swift */,
+				F509BA7A2AB1BAB100A06E20 /* Transitions.swift */,
+				F5D45E092AB42EC5003DBE51 /* PopUpSheetsAndFullScreenCover.swift */,
+				F5D45E0B2AB45768003DBE51 /* SheetsVsAnimationsVsTransitions.swift */,
+				F58395CE2AB5C49900D27F74 /* NavigationView.swift */,
+				F58395D02AB6380200D27F74 /* ListsLearning.swift */,
+				F58395D22AB716FE00D27F74 /* AlertsLearning.swift */,
+				F583962C2AB9708B00D27F74 /* ActionSheetLearning.swift */,
+				F583962E2AB97CAE00D27F74 /* ContextMenu.swift */,
 				258EED5F2A504F7C00D52BBE /* Assets.xcassets */,
 				258EED612A504F7C00D52BBE /* Preview Content */,
 			);
@@ -183,22 +234,39 @@
 			buildActionMask = 2147483647;
 			files = (
 				F509BA5D2AAAEBD000A06E20 /* LoopsForEach.swift in Sources */,
+				F509BA752AB171F000A06E20 /* TernaryOperator.swift in Sources */,
+				F509BA6B2AAEDC1000A06E20 /* State_Concept.swift in Sources */,
+				F509BA7B2AB1BAB100A06E20 /* Transitions.swift in Sources */,
+				F583962D2AB9708B00D27F74 /* ActionSheetLearning.swift in Sources */,
 				F509BA5F2AAB236C00A06E20 /* ScrollViews.swift in Sources */,
+				F509BA712AAF170100A06E20 /* Binding.swift in Sources */,
 				252D05862A95D3A3004ED9DB /* Frames.swift in Sources */,
+				F509BA772AB17C3D00A06E20 /* Animations.swift in Sources */,
+				F509BA732AB06F1000A06E20 /* Conditionals.swift in Sources */,
 				25DCFE752A9C80AC003A8438 /* Padding.swift in Sources */,
+				F58395D32AB716FE00D27F74 /* AlertsLearning.swift in Sources */,
+				F58395D12AB6380200D27F74 /* ListsLearning.swift in Sources */,
 				25CA89802A94CC5D007B0004 /* Gradient.swift in Sources */,
 				252D05882A95D9C5004ED9DB /* BackgroundAndOverlay.swift in Sources */,
 				F509BA5B2AAADF0D00A06E20 /* InitsAndEnums.swift in Sources */,
 				F509BA652AADDC5000A06E20 /* SafeArea.swift in Sources */,
+				F509BA6D2AAEE4E700A06E20 /* ExtractFunctions.swift in Sources */,
+				F583962F2AB97CAE00D27F74 /* ContextMenu.swift in Sources */,
+				F509BA6F2AAEF6BB00A06E20 /* ExtractSubviews.swift in Sources */,
+				F509BA792AB187AC00A06E20 /* AnimationTiming:Curve.swift in Sources */,
 				258EED5E2A504F7A00D52BBE /* ContentView.swift in Sources */,
+				F509BA672AAECFC100A06E20 /* Buttons.swift in Sources */,
 				252D05842A95C4FE004ED9DB /* Icons.swift in Sources */,
 				25CA897E2A94CB10007B0004 /* Colors.swift in Sources */,
 				F509BA592AA9ADFC00A06E20 /* Spacers.swift in Sources */,
+				F58395CF2AB5C49900D27F74 /* NavigationView.swift in Sources */,
+				F5D45E0C2AB45768003DBE51 /* SheetsVsAnimationsVsTransitions.swift in Sources */,
 				F509BA612AAB285000A06E20 /* LazyStacks.swift in Sources */,
 				25DCFE732A9C7153003A8438 /* Stacks(H, V, Z).swift in Sources */,
 				258EED5C2A504F7A00D52BBE /* LearningSwiftUIApp.swift in Sources */,
 				25CA897C2A94BB97007B0004 /* Shapes.swift in Sources */,
 				F509BA632AAB3E5E00A06E20 /* Grids.swift in Sources */,
+				F5D45E0A2AB42EC5003DBE51 /* PopUpSheetsAndFullScreenCover.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
